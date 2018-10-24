@@ -5,6 +5,10 @@ A web app that will let you find your new best friend!
 
 
 # Technologies Used
+- Body-Parser
+- Express
+- Path
+
 
 # Installation
 First make sure you have node installed ( node.js/npm ).
@@ -14,3 +18,7 @@ First make sure you have node installed ( node.js/npm ).
 open in your favorite text editor
 - run npm install
 - run node server.js
+
+# See it live!
+
+https://friendfindings.herokuapp.com/
